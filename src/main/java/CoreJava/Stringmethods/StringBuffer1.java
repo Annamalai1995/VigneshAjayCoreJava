@@ -1,8 +1,8 @@
 package CoreJava.Stringmethods;
-
-public class StringBuffer {
+import java.lang.StringBuffer;
+public class StringBuffer1 {
     public static void main(String[] args) {
-        java.lang.StringBuffer s=new java.lang.StringBuffer("vinoth");// original
+        StringBuffer s=new StringBuffer("vignesh");// original
 
         //Append
         s.append("kumar");// append string

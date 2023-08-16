@@ -2,7 +2,7 @@ package CoreJava.Stringmethods;
 
 public class substring {
     public static void main(String[] args) {
-        String ss= "Ashwin kumar";
+        String ss= "vignesh Ajay";
         System.out.println(ss.substring(4));
         System.out.println(ss.substring(0, 10));
 
