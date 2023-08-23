@@ -7,6 +7,7 @@ public class StringBuffer1 {
         //Append
         s.append("kumar");// append string
         System.out.println(s);
+
         //insert
         s.insert(9,"sam");
         System.out.println(s);

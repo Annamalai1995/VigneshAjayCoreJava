@@ -6,7 +6,7 @@ public class DoLoop {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
 
-        int staff=0;
+        int staff = 0;
         float time=0;
         int count=0;
 
@@ -21,7 +21,7 @@ public class DoLoop {
             else {
                 System.out.println("your good time come to school");
             }
-            staff--;
+            staff++;
         }
         while(staff>0);
         System.out.println("this month later commer count is "+count);
