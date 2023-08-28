@@ -5,6 +5,7 @@ class students
     {
         String name="Vignesh";
         String Fname="Dhandapani";
+        System.out.println("Name is:"+name+""+Fname);
     }
 
 }
@@ -14,6 +15,7 @@ class College extends students
     {
         String Cname="Karpagam university";
         String Place="Coimbatore";
+        System.out.println("College name is :"+Cname+""+Place);
 
     }
 
@@ -24,6 +26,7 @@ class Degree extends College
     {
         String Degree="BE";
         String Course="Cse";
+        System.out.println("Degress:"+Degree+""+Course);
 
     }
 }

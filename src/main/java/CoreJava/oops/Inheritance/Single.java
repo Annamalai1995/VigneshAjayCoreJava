@@ -15,6 +15,7 @@ class Leapord extends  Tiger
 {
     public void Running()
     {
+
         System.out.println("Leapard is the fastest running animal");
     }
 }
