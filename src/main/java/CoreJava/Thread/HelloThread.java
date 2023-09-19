@@ -1,9 +1,10 @@
-package FundamentalJava.Thread;
+package CoreJava.Thread;
 
 public class HelloThread extends Thread {
 
         public void run()
         {
+
             System.out.println("THREAD created ");
         }
         public static void main(String[] args) {

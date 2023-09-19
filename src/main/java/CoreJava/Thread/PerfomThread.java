@@ -1,4 +1,4 @@
-package FundamentalJava.Thread;
+package CoreJava.Thread;
 
 
 import java.util.Arrays;

@@ -8,11 +8,10 @@ public class String1 {
         System.out.println(a);
         String a1=new String(a);
         System.out.println(a1);
-        System.out.println("hello");
         //creating the object of string
         String ss= new String("ANIMAL");
         System.out.println(ss);
-        String sss="vignesh";
+        String sss="janani";
         System.out.println(sss.charAt(5));
     }
 }

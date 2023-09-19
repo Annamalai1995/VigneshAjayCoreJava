@@ -1,4 +1,4 @@
-package FundamentalJava.Thread;
+package CoreJava.Thread;
 class car3 implements Runnable
 {
 
@@ -54,7 +54,7 @@ public class MultiThreading2 {
         Thread t1= new Thread(c);
         t1.setName("SAm");
         System.out.println(t1.getName());
-        t1.setPriority(1);
+        t1.setPriority(5);
         System.out.println(t1.getPriority());
         t1.setPriority(Thread.MAX_PRIORITY);
         System.out.println(t1.getPriority());

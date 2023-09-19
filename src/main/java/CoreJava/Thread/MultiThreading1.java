@@ -1,4 +1,4 @@
-package FundamentalJava.Thread;
+package CoreJava.Thread;
 class car2 extends Thread
 {
     public void run()

@@ -7,6 +7,7 @@ public class Concat {
         String ss="vignesh";
         String ss1="Dhanusiya";
         String ss2="Sowmya";
+        System.out.println(ss+ss1);
         System.out.println(ss.concat(ss));
         System.out.println(ss1.concat(ss2));
 
